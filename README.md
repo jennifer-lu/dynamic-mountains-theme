@@ -5,7 +5,7 @@ A minimal dynamic theme with a mountain backdrop that changes color according to
 
 ## Demo
 
-![theme-demo](https://github.com/jennifer-lu/Animated-Colors-Extra-Dark/blob/master/demo.gif)
+![theme-demo](https://github.com/jennifer-lu/Dynamic-Mountains-Theme/blob/master/demo.gif)
 
 
 ## Installation
