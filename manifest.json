@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "DYNAMIC - Mountains Theme",
-  "version": "0.9.41",
+  "version": "1.0",
   "author": "Jennifer Lu",
   "permissions": ["theme"],
   "background":
