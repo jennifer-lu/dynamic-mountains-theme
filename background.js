@@ -3,7 +3,7 @@
  *
  * @file   Controls the theme and animation.
  * @author Jennifer Lu
- * @since  1.0
+ * @since  1.0.1
  * @see    {@link https://github.com/jennifer-lu/Dynamic-Mountains-Theme}
  */
 
@@ -556,13 +556,13 @@ function updateTheme()
     setActiveTheme("morning");
   else if (hour >= 11 && hour < 15)
     setActiveTheme("noon");
-  else if (hour >= 15 && hour < 16)
+  else if (hour >= 15 && hour < 17)
     setActiveTheme("afternoon");
-  else if (hour >= 16 && hour < 17)
-    setActiveTheme("evening");
   else if (hour >= 17 && hour < 18)
-    setActiveTheme("sunset");
+    setActiveTheme("evening");
   else if (hour >= 18 && hour < 19)
+    setActiveTheme("sunset");
+  else if (hour >= 19 && hour < 21)
     setActiveTheme("dusk");
   else
     setActiveTheme("night");
